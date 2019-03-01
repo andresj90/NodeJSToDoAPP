@@ -1,0 +1,31 @@
+{
+  "name": "nodejstodoapp",
+  "version": "1.0.0",
+  "description": "This is a simple application built using Node JS, Express , EJS , Nodemon, MongoDB and other important dependencies, the goal of this application is to create a simple to do app where HTTP methods will be employed to persist the information in the database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresj90/NodeJSToDoAPP.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "ejs",
+    "express",
+    "javascript"
+  ],
+  "author": "andresf.jaran@konradlorenz.edu.co",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andresj90/NodeJSToDoAPP/issues"
+  },
+  "homepage": "https://github.com/andresj90/NodeJSToDoAPP#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
