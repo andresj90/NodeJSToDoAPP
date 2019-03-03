@@ -2,7 +2,7 @@
   "name": "nodejstodoapp",
   "version": "1.0.0",
   "description": "This is a simple application built using Node JS, Express , EJS , Nodemon, MongoDB and other important dependencies, the goal of this application is to create a simple to do app where HTTP methods will be employed to persist the information in the database.",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "jest"
   },
